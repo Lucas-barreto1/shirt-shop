@@ -24,7 +24,7 @@ The project consists of a clothing sale website, in the visual part used by Tail
   - [Built With](#built-with)
   - [Authors](#authors)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+  
 
 ## Getting Started
 
