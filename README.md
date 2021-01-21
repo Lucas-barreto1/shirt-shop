@@ -15,7 +15,7 @@ The project consists of a clothing sale website, in the visual part used by Tail
 
 [WebSite](https://shirt-shop.vercel.app/)
 
-
+![Preview](https://github.com/Lucas-barreto1/shirt-shop/blob/master/print.png?raw=true)
 
 ## Summary
 
