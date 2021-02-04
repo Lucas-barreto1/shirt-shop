@@ -24,10 +24,7 @@ The project consists of a clothing sale website, in the visual part used by Tail
   - [Deployment](#deployment)
   - [Built With](#built-with)
   - [Authors](#authors)
-<<<<<<< HEAD
-  
-=======
->>>>>>> d288b6f70e00a2bd9760561812da71eb3ea69d11
+
   
 
 ## Getting Started
